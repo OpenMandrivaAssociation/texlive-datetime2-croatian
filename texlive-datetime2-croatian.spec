@@ -3,7 +3,7 @@ Version:	36682
 Release:	2
 Summary:	Croatian language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-croatian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-croatian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-croatian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-croatian.doc.r%{version}.tar.xz
